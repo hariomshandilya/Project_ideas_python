@@ -57,3 +57,6 @@ COMPUTER. Com-pu-ter! Pretty much that's the biggest revolution that has ever ha
 25. Blockchain for Engineers
 
 26. Home Automation System using IoT & Raspberry Pi
+
+
+# Why python?
