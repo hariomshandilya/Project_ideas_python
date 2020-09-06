@@ -70,4 +70,5 @@ You may have a question popping up in your minds by now, i.e., Why Python only? 
 - Python always cut shorts the lengthy codes in other programming languages.
 - Python has also many different versions. The latest version being Python 3.
 
-
+- What is python used for?
+Python with its amazing capabilities has many vast uses and applications in almost every field. Among some are it can be used to create web applications using a server. Python can also be used to develop software. Python has an essential application in database systems. It can be used to create, read and change files. Python can also be used for prototyping and complex software development with easy programs. Python is also used in machine learning.
