@@ -64,10 +64,10 @@ You may have a question popping up in your minds by now, i.e., Why Python only? 
 
 - Python is a programming language that is very easy to understand and grasp.
 - It uses a simple syntax very like our spoken English
-Python goes well with almost every platform
-Python can be used to handle big data
-Used in complex mathematics
-Python always cut shorts the lengthy codes in other programming languages.
-Python has also many different versions. The latest version being Python 3.
+- Python goes well with almost every platform
+- Python can be used to handle big data
+- Used in complex mathematics
+- Python always cut shorts the lengthy codes in other programming languages.
+- Python has also many different versions. The latest version being Python 3.
 
 
