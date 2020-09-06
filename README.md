@@ -72,3 +72,20 @@ You may have a question popping up in your minds by now, i.e., Why Python only? 
 
 - What is python used for?
 Python with its amazing capabilities has many vast uses and applications in almost every field. Among some are it can be used to create web applications using a server. Python can also be used to develop software. Python has an essential application in database systems. It can be used to create, read and change files. Python can also be used for prototyping and complex software development with easy programs. Python is also used in machine learning.
+
+
+# What are the advantages of using python?
+Python has diverse applications as a result of its wonderful combination of features like:
+
+Support Libraries: Python provides a range of standard libraries ranging from libraries which include fields of internet protocols, web services, operating system interfaces, and many others.
+
+Open Source: Python is available as an open-source platform. It is updated and developed by the host of programmers by introducing several modules.
+
+Easy learning and access to Support facility: Python serves as an amazing and easy to understand programming language for beginners because of its similarity with the normal English language which we use. Python serves excellent readability. Since this language has emerged as the fastest-growing programming language of this era, it has varied support available over the internet. Along with the rich internet source bank, its problems can be easily solved whenever the programmer gets stuck.
+
+User-friendly Data Structures: Python supports the built-in list and dictionary data structures. Through these libraries, the length of code can be reduced using high-level dynamic programming.
+
+Speed: Python with its object-oriented design structure and control capabilities has very high-speed execution. The short length codes also increase the speed of programming.
+Embeddable: Python is embeddable that is we can put the same Python code in C or C ++ and add other scripting capabilities.
+
+IoT Capabilities: Python serves as a major source of coding in ML and Raspberry Pi Projects. It is playing a major role in making things smarter.
