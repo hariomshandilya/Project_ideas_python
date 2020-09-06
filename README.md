@@ -38,3 +38,22 @@ COMPUTER. Com-pu-ter! Pretty much that's the biggest revolution that has ever ha
 
 16. Computer Vision Based Smart Selfie
 
+17. Digital Signal Processing using Python
+
+18. Python for Engineers
+
+19. Python for Game Development
+
+20. Python for Web Development
+
+21. Automation with Python
+
+22. Python for Data Science
+
+23. Python for Image Processing
+
+24. Automatic Human Following Trolley
+
+25. Blockchain for Engineers
+
+26. Home Automation System using IoT & Raspberry Pi
